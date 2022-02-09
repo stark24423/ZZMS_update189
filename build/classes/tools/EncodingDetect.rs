@@ -1,0 +1,3 @@
+tools.EncodingDetect
+tools.Encoding
+tools.BytesEncodingDetect
